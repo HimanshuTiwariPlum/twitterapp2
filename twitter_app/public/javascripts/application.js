@@ -5,7 +5,7 @@ $(document).ready(function(){
 
 	$("#message_form").submit(function(){
 		
-		alert("hello");
+		alert("hello jquery is running");
 		
 	});
 });
